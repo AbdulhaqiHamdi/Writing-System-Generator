@@ -1,0 +1,22 @@
+{
+    "consonants": {
+        "k": "asset/consonant/ka.png",
+        "t": "asset/consonant/ta.png",
+        "s": "asset/consonant/sa.png",
+        "n": "asset/consonant/na.png",
+        "m": "asset/consonant/ma.png",
+        "r": "asset/consonant/ra.png",
+        "f": "asset/consonant/fa.png"
+    },
+
+    "vowels": {
+        "a": null,
+        "i": "asset/vowel/-i.png",
+        "u": "asset/vowel/-u.png",
+        "e": "asset/vowel/-e.png",
+        "ə": "asset/vowel/-ə.png",
+        "o": "asset/vowel/-o.png"
+    }
+
+
+}
